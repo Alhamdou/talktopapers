@@ -1,6 +1,6 @@
 # Ask the Papers Streamlit APP
 
-This proyect is an UI made it with Streamlit 
+This project is an UI made it with Streamlit 
 
 Usage: 
 
